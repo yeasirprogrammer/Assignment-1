@@ -199,9 +199,9 @@ nav{
   margin: auto;
 }
 .my-in-part h3{
-  font-size: 32;
+  font-size: 32px;
   font-weight: bolder;
-  margin-top: 32px; 
+  margin-top: 80px; 
   margin-bottom: 24px;
   
 }
@@ -215,14 +215,77 @@ nav{
   box-shadow: 0px 6px 15px 0px #e0dcdc;
   /* border: 1px solid black; */
   border-radius: 16px;
+  border: 1px solid rgb(221, 218, 218);
   padding: 32px;
   margin-bottom: 151px;
   
 }
 
 /* <!-- .my-My Inspiration part end --> */
+  .cureent-target-part{
+    width: 1140px;
+    height: 460px;
+    margin: auto;
+  }
+.my-ctp-content{
+    text-align: center;
+    
+  }
+  .my-ctp-content h4{
+    font-weight: bolder;
+    font-size: 32px;
+    margin-bottom: 24px;
+  }
+  .my-ctp-content p{
+    margin-bottom: 48px;
+  }
+  
+ .skill-container{
+  display: flex;
+  gap: 24px;
+   
 
+   
+ }
+ .skill {
+  width: 364px;
+  height: 299px;
+  padding: 40px;
+  text-align: justify;
+  box-shadow: 0px 6px 15px 0px #e0dcdc;
+  margin-bottom: 43px; 
+  border-radius: 16px;
 
+ }
+ .skill h4  p {
+  width: 284px;
+  height: 199px;
+ }
+ .l-more{
+  margin-top: 24px;
+  font-weight: bold;
+  color:black ;
+  display: block;
+  
+ }
+.skill-imges{
+  margin-bottom: 24px;
+}
+.Skill-title{
+  margin-bottom: 24px;
+}
+
+.html-bg{
+  background-color:#FFEDE8;
+}
+.css-bg{
+  background-color: #F0F5FE;
+}
+.js-bg{
+  background-color: #FEFFE5 ;
+}
+
+ 
 
 
 
