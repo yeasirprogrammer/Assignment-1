@@ -90,10 +90,11 @@ nav{
   color: #ffffff;
 }
 /* Banner part end */
+/* why-wb part Start  */
 .why-wb{
   box-shadow: 0px 6px 15px 0px #e0dcdc;
   border-radius: 16px;
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   width: 1140px;
   height: 1383px;
   margin: auto;
@@ -107,14 +108,12 @@ nav{
    margin: auto;
    margin-top: 80px;
    margin-bottom:32px ;
-   
-   
-   
+ 
 }
 
 .content{
   padding-top: 80px;
-padding-bottom: 80px;
+
 }
 .wh-content{
   color: #0D1321;
@@ -128,35 +127,29 @@ padding-bottom: 80px;
    width: 946px;
   height: 336px;
   margin: 0 35px 0px 200px; 
-  margin-bottom:32px ;
   color: #0d1321bd;
   margin: auto;
   box-shadow: 0px 6px 15px 0px #e0dcdc;
    padding: 48px;
    margin-top: 32px;
-
-
-  
-  
+   margin-bottom:32px ; 
 }
-.d-descrption{
+.d-description
+{
   width: 477px;
   height: 219px;
   margin-bottom:45px ;
   color: #0d1321bd;
   margin-top: 32px;
 
-  
- 
- 
 }
+
 
 .d-title{
   margin-bottom: 36px;
   font-size: 24px;
   color: #0d1321bd;
-
-  
+ 
 }
 .btn-Learn {
   text-decoration: none;
@@ -195,7 +188,39 @@ padding-bottom: 80px;
   color: #0D1321;
 }
 
+/* /* why-wb part End  */  
+/* <!-- .my-My Inspiration part --> */
 
+.my-in-part{
+  width: 1145px;
+  height: 775px;
+  text-align: center;
+  margin-top: 32px; 
+  margin: auto;
+}
+.my-in-part h3{
+  font-size: 32;
+  font-weight: bolder;
+  margin-top: 32px; 
+  margin-bottom: 24px;
+  
+}
+.my-in-part p{
+  color: #4a4b4cbd;
+  margin-top: 32px; 
+  margin-bottom: 30px; 
+
+}
+.video{
+  box-shadow: 0px 6px 15px 0px #e0dcdc;
+  /* border: 1px solid black; */
+  border-radius: 16px;
+  padding: 32px;
+  margin-bottom: 151px;
+  
+}
+
+/* <!-- .my-My Inspiration part end --> */
 
 
 
