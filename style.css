@@ -12,6 +12,19 @@
   font-style: normal;
 }
  /* shared style */
+ 
+ /* .content-center{ 
+  text-align: center;
+  
+}
+.content-resize h4{
+  font-weight: bolder;
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+.content-botom p{ 
+  margin-bottom: 48px;
+} */
 
 
 
@@ -239,7 +252,7 @@ nav{
   .my-ctp-content p{
     margin-bottom: 48px;
   }
-  
+
  .skill-container{
   display: flex;
   gap: 24px;
@@ -286,6 +299,78 @@ nav{
 }
 
  
+  /* support */
 
+  .support{
+   background-image: url(./imges/handshake.jpg);
+   width: 1140px;
+   height: 313px;
+   background-size: cover;
+   background-position: center;
+   border-radius: 16px;
+   text-align: center;
+   margin: auto;
+   
+  
+  }
+ 
+  .support h4{
+    font-weight: bolder;
+    font-size: 32px;
+    margin-top: 64px;
+    margin-bottom: 24px;
+    color: white; 
+    padding-top: 64px;
+    
+    
+  }
+  .support p{
+    color:white;  
+  }
+  .input-text  {
+    background-color: white;
+    width: 448px;
+    height: 57px;
+    border-radius: 8px;
+    margin-top: 24px;
+    margin-left: 10px;
+    
+  }
+  
 
+  .sumbit-btn{
+    width: 120px;
+    height: 57px;
+    padding: 14px 22px;
+  }
+  .sumbit-btn a{
+    color: black;
+    text-decoration: none;
+  }
+
+  /* Fotter Section */
+ footer{
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;
+  height: 36px;
+  margin: auto;
+  padding: 32px;
+  font-size: 20px;
+  font-weight: 400;
+
+ }
+ .footer-content{
+  
+ }
+ .icon{
+  list-style: none;
+  display: flex;
+  gap: 24px;
+  width: 157px;
+  height: 36px;
+
+ }
+ 
 
